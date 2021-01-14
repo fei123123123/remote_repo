@@ -1,3 +1,4 @@
 #!/usr/bin/python
 print("yang");
-print("fei ")
+print("fei ");
+print("hehe");
